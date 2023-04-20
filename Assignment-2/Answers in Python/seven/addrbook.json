@@ -1,0 +1,56 @@
+{
+    "simran": [
+        {
+            "Address": "pushpa bhawan",
+            "Phone": "965432685",
+            "Mail": "simran965@gmail.com"
+        },
+        {
+            "address": "kumarnagar",
+            "phone No.": "9654231654",
+            "email": "simranrana1212@gmail.com"
+        },
+        {
+            "address": "maharaniganj",
+            "phone No.": 9565256256,
+            "email": "simrannjii@gmail.com"
+        }
+    ],
+    "Rohit": {
+        "Address": "kalusarai",
+        "Phone": "9871514260",
+        "Mail": "irohit956@gmail.com"
+    },
+    "aakash": {
+        "Address": "shivanch",
+        "Phone": "9568423156",
+        "Mail": "akash8542@outlook.com"
+    },
+    "shiv": [
+        {
+            "Address": "ranjanpur",
+            "Phone": "9875642315",
+            "Mail": "shivprasad98659@gmail.com"
+        },
+        {
+            "address": "gopalpur",
+            "phone No.": "9423152465",
+            "email": "vshiv@gmail.com"
+        }
+    ],
+    "chavikant": {
+        "Address": "swaroopnagar",
+        "Phone": "9654235612",
+        "Mail": "chavi@gmail.com"
+    },
+    "krishna": {
+        "address": "sheeshamnagar",
+        "phone No.": 9549215652,
+        "email": "krishna4589@gmail.com"
+    },
+    "shivam": {
+        "address": "delhi",
+        "phone No.": 8585646,
+        "email": "shivam@@"
+    }
+}

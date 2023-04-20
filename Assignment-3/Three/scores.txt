@@ -1,0 +1,25 @@
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE1.txt
+Marks scored by the studet is : 8.839302112029385
+Top most used words in the text are : the, of, for, computer, a
+Five Random words are : follows, they, to, criteria, was
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE2.txt
+Marks scored by the studet is : 8.682379349046016
+Top most used words in the text are : mobile, we, a, phone, the
+Five Random words are : whoever, us, moving, connected, purposes
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE3.txt
+Marks scored by the studet is : 8.687025534851623
+Top most used words in the text are : the, internet, and, of, things
+Five Random words are : small, these, mean, completed, imagine
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE4.txt
+Marks scored by the studet is : 8.198779424585878
+Top most used words in the text are : the, of, science, us, our
+Five Random words are : all, reaches, physics, moreover, distances
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE5.txt
+Marks scored by the studet is : 8.662733529990167
+Top most used words in the text are : the, to, on, a, was
+Five Random words are : drafting, republic, constitution, sessions, 1935

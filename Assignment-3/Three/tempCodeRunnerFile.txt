@@ -1,0 +1,25 @@
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE1.txt
+score: 8.839302112029385
+top 5 words: the, of, for, computer, a
+random 5 words: cure, do., computers., or, its
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE2.txt
+score: 8.682379349046016
+top 5 words: mobile, we, a, phone, the
+random 5 words: globe, at, cons, text, connected
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE3.txt
+score: 8.687025534851623
+top 5 words: the, internet, and, of, things
+random 5 words: small, any, take, website, into
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE4.txt
+score: 8.198779424585878
+top 5 words: the, of, science, us, our
+random 5 words: with, 9, chemistry,, this,, were
+ 
+E:\IIITD Projects\IP\Project assignment - 3\Three\FILE5.txt
+score: 8.662733529990167
+top 5 words: the, to, on, a, was
+random 5 words: reflect, powers, constituent, 26, elaborate

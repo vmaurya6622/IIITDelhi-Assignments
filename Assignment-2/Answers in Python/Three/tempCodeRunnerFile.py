@@ -1,0 +1,2 @@
+
+# lmin=min(sum)

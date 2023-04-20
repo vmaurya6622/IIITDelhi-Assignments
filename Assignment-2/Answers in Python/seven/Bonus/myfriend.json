@@ -1,0 +1,32 @@
+{
+    "mayank": {
+        "address": "D-1/C 702 Sangam Vihar NEW DELHI",
+        "phone No.": 9999900077,
+        "email": "mayank@gmail.com"
+    },
+    "ganesh": {
+        "address": "D-1/C 720 sangam vihar NEW DELHI",
+        "phone No.": 1234567890,
+        "email": "subham@gmail.com"
+    },
+    "vinaykumar": {
+        "address": "K-001 Nanital UTTRAKHAND",
+        "phone No.": 9999000666,
+        "email": "kumar786@gmail.com"
+    },
+    "narendra": {
+        "address": "H-420 Badarpur Border NEW DELHI",
+        "phone No.": 7078986754,
+        "email": "narendra999@gmail.com"
+    },
+    "sukeshpandit": {
+        "address": "F-1924 Faridabad NEW DELHI",
+        "phone No.": 9891444666,
+        "email": "pandit101@gmail.com"
+    },
+    "suman": {
+        "address": "D-749 sangam vihar NEW DELHI",
+        "phone No.": 9711387754,
+        "email": "suman@gmail.com"
+    }
+}

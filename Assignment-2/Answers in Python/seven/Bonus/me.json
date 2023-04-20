@@ -1,0 +1,27 @@
+{
+    "vishal": {
+        "Address": "sangam vihar",
+        "Phone": "9875642315",
+        "Mail": "vishal123@yahoo.co.in"
+    },
+    "simran": {
+        "Address": "pushpa bhawan",
+        "Phone": "965432685",
+        "Mail": "simran965@gmail.com"
+    },
+    "aakash": {
+        "Address": "shivanch",
+        "Phone": "9568423156",
+        "Mail": "akash8542@outlook.com"
+    },
+    "shiv": {
+        "Address": "ranjanpur",
+        "Phone": "9875642315",
+        "Mail": "shivprasad98659@gmail.com"
+    },
+    "chavikant": {
+        "Address": "swaroopnagar",
+        "Phone": "9654235612",
+        "Mail": "chavi@gmail.com"
+    }
+}

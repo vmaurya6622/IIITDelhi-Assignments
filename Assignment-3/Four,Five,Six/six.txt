@@ -1,0 +1,36 @@
+Advantages of using OO
+1. object oriented programming helps in defining the class with attributes, objcts etc.that helps in organising the data in a very good manner.
+2. creating a new class is much easier and reliable. and defining and performing the operations over them are also liable.
+3. adding a new object,attributes in the class is easy.
+
+Advantages of using Dictionaries
+1. Dictionaries helps in getting the data at a very high access rate.
+2. Actually adding entries in the dictionaries are tecnically flesible than adding into oops.
+
+
+Disadvantage of using OO
+1. The program length is more and the debug part of the program is more tough.
+2. It is slower than other programs.
+
+Disadvantage of using dictionaries
+1. dictionaries are unordered that prase the problem in getting the values by indexing.
+2. dictionaries take up a lot more space than other data structures like oops.
+
+Performance comparison for *grading* operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N: 1200
+2. Time by OO: 2.8651282787323
+3. Time by dictionary: 3.5278801918029785
+4. X is faster; fraction of time x took is:  oo is more faster than dictionaries in grading by a fraction of 1.2313166631980328
+
+Performance comparison for *search* operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N: 1200  
+2. Time by OO: 5.4389595462545665
+3. Time by dictionary: 6.219196319580078
+4. X is faster; fraction of time x took is: oo is faster in searching by a fraction of 1.743338870649174
+
+({however this data can be somewhat inaccurate because performance comparison can depend on various factors such as the 
+size of the data, hardware specifications, etc.})
+
+Therefore, from my observations searching and grading operations are faster in object oriented programming....
+
+thankyou !

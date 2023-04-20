@@ -1,0 +1,7 @@
+The <Roll no.>, <Total Marks>, <Grades received> has been listed below.
+
+2022512 81.86 A
+2022132 56.612 C
+2022352 80.00999999999999 B
+2022047 81.72 A
+2022149 65.88 B
